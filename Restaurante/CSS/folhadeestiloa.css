@@ -1,37 +1,53 @@
-.body{
+.body {
+   
+   background-color: #FFE4E1;
+   font-family:  Arial, Helvetica, sans-serif;
+  
+}
+
+.Letreiro {
+   padding: 25px;
+   font-size: 20px; 
+   background-color: #FFF689;
+   color: green;
    text-align: center;
-    background-color: #FFE4E1
 }
 
-
-.Letreiro{
-    color: green;
+p {
+   color: rgba(34, 223, 214, 0.767);
 }
 
- .p{
-    color:rgba(34, 223, 214, 0.767);
- }
- .Menu{
-    color: aquamarine;
- }
-
-.Endereço{
-    color:coral;
+.Menu {
+   color: aquamarine;
 }
- .contato{
-    color: burlywood;
- }
- .redes_socias{
-color: brown;
- }
 
- .tabela{
-   width: 300px; padding: 5px 15px 15px 15px;
- 
+.Endereço {
+   color: coral;
 }
- 
+
+.contato {
+   color: burlywood;
+}
+
+.rede_socias {
+   color: brown;
+}
+
+.tabela {
+   width: 300px;
+   padding: 5px 10px 0px 10px;
+   margin: auto;
+}
+
 .table,
 tr,
 td {
-  border: 1px solid blue;
+   border: 1px solid blue;
+}
+
+footer{
+   background-color: rgba(34, 223, 214, 0.767);
+   padding: 10px;
+   text-align: center;
+   color: white;
 }
