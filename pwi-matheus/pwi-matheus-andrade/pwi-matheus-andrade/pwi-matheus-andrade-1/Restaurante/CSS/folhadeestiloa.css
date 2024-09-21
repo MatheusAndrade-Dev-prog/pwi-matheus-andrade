@@ -1,0 +1,36 @@
+.body{
+    background-color: #FFE4E1
+}
+
+
+.Letreiro{
+    color: green;
+}
+
+ .p{
+    "color:rgba(34, 223, 214, 0.767);
+ }
+ .Menu{
+    color: aquamarine;
+ }
+
+.Endereço{
+    color:coral;
+}
+ .contato{
+    color: burlywood;
+ }
+ .redes_socias{
+color: brown;
+ }
+
+ .tabela{
+   width: 300px; padding: 5px 15px 15px 15px;
+ 
+}
+ 
+.table,
+tr,
+td {
+  border: 1px solid blue;
+}
