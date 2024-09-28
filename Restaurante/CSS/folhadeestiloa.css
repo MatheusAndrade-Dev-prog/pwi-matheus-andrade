@@ -1,16 +1,15 @@
 .body {
-   
+
    background-color: #FFE4E1;
-   font-family:  Arial, Helvetica, sans-serif;
-   text-align: center;
+   font-family: Arial, Helvetica, sans-serif;
 }
 
 .Letreiro {
    padding: 25px;
-   font-size: 20px; 
+   font-size: 20px;
    background-color: #FFF689;
    color: green;
-   
+
 }
 
 p {
@@ -39,13 +38,23 @@ p {
    margin: auto;
 }
 
+.flex-container {
+   display: flex;
+   height: 500px;
+   flex-wrap: wrap;
+   align-content: space-around;
+   overflow: scroll;
+
+}
+
+
 .table,
 tr,
 td {
    border: 1px solid blue;
 }
 
-footer{
+footer {
    background-color: rgba(34, 223, 214, 0.767);
    padding: 10px;
    text-align: center;

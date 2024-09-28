@@ -1,0 +1,29 @@
+#overflowTest {
+    background: #4CAF50;
+    color: white;
+    padding: 15px;
+    width: 50%;
+    height: 100px;
+    overflow: scroll;
+    border: 1px solid #ccc;
+}
+
+#esperiencia {
+    background-color: aqua;
+    width: 250px;
+    height: 100;
+    border: 1px solid;
+    overflow: visible;
+}
+
+#esperiencia2 {
+    background-color: coral;
+    width: 200px;
+    height: 65px;
+    border: 1px solid black;
+    overflow: hidden;
+}
+
+#esperiencia3{
+    background-color: red;
+}
