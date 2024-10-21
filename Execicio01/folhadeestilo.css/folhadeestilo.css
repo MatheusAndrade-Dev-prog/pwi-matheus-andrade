@@ -1,3 +1,9 @@
+body {
+    background-color: #fff;
+    text-align: center;
+}
+
+
 .sobre_mim {
     border-radius: 25px;
     background-color: aqua;
@@ -5,18 +11,19 @@
     margin: 15px 15px 15px 15px;
 }
 
-.titulo_sobre_mim{
+.titulo_sobre_mim {
     text-align: center;
 }
 
-.sobre_mim_texto {
-    background-color: aqua;
-    text-align: left;
-    padding: 10px 20px 10px 5px;
+.firewalldragon {
+    float: left;
+    width: 150px;
+    height: 175px;
+    margin: 0px 50px 5px 35px;
 }
+
 .sobre_mim_texto {
-    background-color: aqua;
-    text-align: left;
+    text-align: right;
     padding: 10px 20px 10px 5px;
 }
 
@@ -35,20 +42,9 @@
     float: right;
     width: 150px;
     height: 120px;
-    margin: 0px 30px 0px 35px;
+    margin: 0px 30px 0px 35px
 }
 
-.objetivo {
-    float: right;
-    width: 150px;
-    height: 120px;
-    margin: 0px 30px 0px 35px;
-}
-
-.meu_objetivo_texo {
-    text-align: left;
-    padding: 10px 20px 5px 5px;
-}
 .meu_objetivo_texo {
     text-align: left;
     padding: 10px 20px 5px 5px;
@@ -60,24 +56,25 @@
     padding: 20px 30px 10px 5px;
     margin: 15px 15px 15px 15px;
 }
+
 .titulo_meus_estudos {
     text-align: center;
 }
+
 .meus_estudos_texto {
     text-align: left;
     list-style-type: square;
     padding: 10px 20px 10px 5px;
 }
 
-estudos {
+.estudos{
     float: right;
     width: 150px;
     height: 130px;
     margin: 0px 30px 0px 35px;
 }
-footer {
+   footer{
     background-color: #777;
     padding: 10px;
     text-align: center;
     color: white;
-}
